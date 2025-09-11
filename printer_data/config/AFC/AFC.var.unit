@@ -12,7 +12,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": "ASA",
             "density": 1.09,
             "diameter": 1.75,
