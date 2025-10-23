@@ -31,7 +31,7 @@
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "TN2",
+            "buffer": "Turtle_1",
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
@@ -57,7 +57,7 @@
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "TN2",
+            "buffer": "Turtle_1",
             "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
@@ -83,7 +83,7 @@
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "TN2",
+            "buffer": "Turtle_1",
             "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
@@ -116,7 +116,7 @@
             }
         },
         "bypass": {
-            "enabled": 1
+            "enabled": 0
         }
     }
 }
