@@ -5,7 +5,7 @@
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "Turtle_1",
+            "buffer": "buffer",
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
@@ -19,20 +19,21 @@
             "empty_spool_weight": 145.0,
             "spool_id": 6,
             "color": "#0ba3ce",
-            "weight": 266.6949278038959,
+            "weight": 266.69492698459635,
             "extruder_temp": 250,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
-            "dist_hub": 800.0
+            "status": "Loaded",
+            "dist_hub": 800.0,
+            "td1_data": {}
         },
         "lane2": {
             "name": "lane2",
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "Turtle_1",
+            "buffer": "buffer",
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
@@ -52,14 +53,15 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 810.0
+            "dist_hub": 810.0,
+            "td1_data": {}
         },
         "lane3": {
             "name": "lane3",
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "Turtle_1",
+            "buffer": "buffer",
             "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
@@ -79,14 +81,15 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 840.0
+            "dist_hub": 840.0,
+            "td1_data": {}
         },
         "lane4": {
             "name": "lane4",
             "unit": "Turtle_1",
             "hub": "Turtle_1",
             "extruder": "extruder",
-            "buffer": "Turtle_1",
+            "buffer": "buffer",
             "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
@@ -106,7 +109,8 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 915.0
+            "dist_hub": 915.0,
+            "td1_data": {}
         }
     },
     "system": {
@@ -116,7 +120,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
