@@ -78,7 +78,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "PETG",
             "density": 1.27,
             "diameter": 1.75,
