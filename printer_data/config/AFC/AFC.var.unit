@@ -27,9 +27,9 @@
             "status": "Loaded",
             "dist_hub": 845.0,
             "td1_data": {
-                "td": 4.0,
-                "color": "213162",
-                "scan_time": "2025-11-09T18:45:16.306468+00:00Z",
+                "td": 3.9,
+                "color": "1F2E5D",
+                "scan_time": "2025-11-09T19:16:54.240370+00:00Z",
                 "error": null
             }
         },
@@ -59,7 +59,12 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 845.0,
-            "td1_data": {}
+            "td1_data": {
+                "td": 3.9,
+                "color": "FFFFFF",
+                "scan_time": "2025-11-09T19:17:09.412827+00:00Z",
+                "error": null
+            }
         },
         "lane3": {
             "name": "lane3",
@@ -87,7 +92,12 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 675.0,
-            "td1_data": {}
+            "td1_data": {
+                "td": 100.0,
+                "color": "BC6A68",
+                "scan_time": "2025-11-09T19:17:24.579627+00:00Z",
+                "error": null
+            }
         },
         "lane4": {
             "name": "lane4",
@@ -115,7 +125,12 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 950.0,
-            "td1_data": {}
+            "td1_data": {
+                "td": 0.3,
+                "color": "070000",
+                "scan_time": "2025-11-09T19:17:39.661142+00:00Z",
+                "error": null
+            }
         }
     },
     "system": {
