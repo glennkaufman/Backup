@@ -57,8 +57,8 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating",
-            "dist_hub": 810.0,
+            "status": "None",
+            "dist_hub": 845.0,
             "td1_data": {}
         },
         "lane3": {
@@ -70,7 +70,7 @@
             "buffer_status": "Trailing",
             "lane": 3,
             "map": "T2",
-            "load": true,
+            "load": false,
             "prep": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
@@ -83,9 +83,9 @@
             "weight": 772.0,
             "extruder_temp": 230,
             "runout_lane": null,
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "filament_status": "Prep",
+            "filament_status_led": "#ffffff",
+            "status": "Calibrating",
             "dist_hub": 840.0,
             "td1_data": {}
         },
