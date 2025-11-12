@@ -6,7 +6,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
             "load": true,
@@ -28,8 +28,8 @@
             "dist_hub": 845.0,
             "td1_data": {
                 "td": 4.0,
-                "color": "253668",
-                "scan_time": "2025-11-09T23:42:40.469374+00:00Z",
+                "color": "24366A",
+                "scan_time": "2025-11-12T23:55:19.702638+00:00Z",
                 "error": null
             }
         },
@@ -39,7 +39,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
             "load": true,
@@ -57,12 +57,12 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 845.0,
             "td1_data": {
-                "td": 3.9,
+                "td": 3.8,
                 "color": "FFFFFF",
-                "scan_time": "2025-11-09T23:42:55.366768+00:00Z",
+                "scan_time": "2025-11-12T23:55:38.494630+00:00Z",
                 "error": null
             }
         },
@@ -72,7 +72,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
             "load": true,
@@ -94,8 +94,8 @@
             "dist_hub": 675.0,
             "td1_data": {
                 "td": 8.4,
-                "color": "C8982D",
-                "scan_time": "2025-11-09T23:43:23.879577+00:00Z",
+                "color": "C5982E",
+                "scan_time": "2025-11-12T23:55:54.231125+00:00Z",
                 "error": null
             }
         },
@@ -105,30 +105,30 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "ASA",
             "density": 1.09,
             "diameter": 1.75,
             "empty_spool_weight": 145.0,
             "spool_id": 31,
             "color": "#020202",
-            "weight": 444.55430085883785,
+            "weight": 444.35213494563027,
             "extruder_temp": 250,
             "runout_lane": null,
-            "filament_status": "In Tool",
-            "filament_status_led": "#0000ff",
-            "status": "Tooled",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded",
             "dist_hub": 950.0,
             "td1_data": {
-                "td": 0.3,
-                "color": "080000",
-                "scan_time": "2025-11-09T23:43:39.475583+00:00Z",
+                "td": 0.2,
+                "color": "0A0000",
+                "scan_time": "2025-11-12T23:56:17.008963+00:00Z",
                 "error": null
             }
         }
@@ -140,7 +140,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane4"
+                "lane_loaded": ""
             }
         },
         "bypass": {
