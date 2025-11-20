@@ -6,7 +6,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
             "load": true,
@@ -27,9 +27,9 @@
             "status": "Loaded",
             "dist_hub": 845.0,
             "td1_data": {
-                "td": 4.0,
-                "color": "213467",
-                "scan_time": "2025-11-16T22:16:29.228138+00:00Z",
+                "td": 4.1,
+                "color": "25386E",
+                "scan_time": "2025-11-20T17:17:32.823278+00:00Z",
                 "error": null
             }
         },
@@ -39,7 +39,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
             "load": true,
@@ -62,7 +62,7 @@
             "td1_data": {
                 "td": 3.8,
                 "color": "FFFFFF",
-                "scan_time": "2025-11-16T22:16:45.673521+00:00Z",
+                "scan_time": "2025-11-20T17:17:49.414837+00:00Z",
                 "error": null
             }
         },
@@ -72,7 +72,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
             "load": true,
@@ -94,8 +94,8 @@
             "dist_hub": 675.0,
             "td1_data": {
                 "td": 8.4,
-                "color": "C2982D",
-                "scan_time": "2025-11-16T22:17:02.405872+00:00Z",
+                "color": "C0972F",
+                "scan_time": "2025-11-20T17:18:05.356014+00:00Z",
                 "error": null
             }
         },
@@ -105,7 +105,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "buffer",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
             "load": true,
@@ -118,17 +118,17 @@
             "empty_spool_weight": 145.0,
             "spool_id": 31,
             "color": "#020202",
-            "weight": 355.51488311701905,
+            "weight": 355.82336693636,
             "extruder_temp": 250,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "None",
+            "status": "Loaded",
             "dist_hub": 950.0,
             "td1_data": {
                 "td": 0.3,
-                "color": "070000",
-                "scan_time": "2025-11-16T22:17:21.716709+00:00Z",
+                "color": "050000",
+                "scan_time": "2025-11-20T17:18:25.409052+00:00Z",
                 "error": null
             }
         }
@@ -140,7 +140,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
