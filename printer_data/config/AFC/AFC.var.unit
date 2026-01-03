@@ -90,8 +90,8 @@
             "runout_lane": null,
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "None",
-            "dist_hub": 775.0,
+            "status": "Ejecting",
+            "dist_hub": 940.0,
             "td1_data": {
                 "td": 8.4,
                 "color": "C0972F",
