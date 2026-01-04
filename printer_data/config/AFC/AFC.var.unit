@@ -120,7 +120,12 @@
             "filament_status_led": "#00cc00",
             "status": "Loaded",
             "dist_hub": 940.0,
-            "td1_data": {}
+            "td1_data": {
+                "td": 0.5,
+                "color": "FFFFFF",
+                "scan_time": "2026-01-04T00:19:07.053469+00:00Z",
+                "error": null
+            }
         }
     },
     "system": {
