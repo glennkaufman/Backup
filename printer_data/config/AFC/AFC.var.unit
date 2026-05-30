@@ -28,9 +28,9 @@
             "status": "Loaded",
             "dist_hub": 840.0,
             "td1_data": {
-                "td": 100.0,
-                "color": "5C2116",
-                "scan_time": "2026-02-28T19:25:45.819207+00:00Z",
+                "td": 0.4,
+                "color": "5E2217",
+                "scan_time": "2026-05-30T15:24:15.856494+00:00Z",
                 "error": null
             },
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing"
