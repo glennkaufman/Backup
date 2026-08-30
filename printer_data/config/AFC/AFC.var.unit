@@ -91,7 +91,7 @@
             "runout_lane": null,
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "None",
+            "status": "Tool Unloading",
             "dist_hub": 865.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane3_prep,lane3_load"
